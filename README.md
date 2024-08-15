@@ -4,3 +4,8 @@
   - Jeronimo Mejía Escobar  ID: 000465511
   - Alejandro Velásuez Rave  ID: 000466978
 ## Ejercicio Parcial 1
+### Sebastían Escobar Mejía
+
+### Jeronimo Mejía Escobar
+
+### Alejandro Velásquez Rave
