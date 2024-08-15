@@ -8,10 +8,7 @@
     ![Imagen de WhatsApp 2024-08-15 a las 17 38 58_329ab6a2](https://github.com/user-attachments/assets/993eb85e-9867-46ec-bfbe-849142c8d4ad)
 ## Ejercicio Parcial 1
 ### Sebastían Escobar Mejía
-
+https://github.com/user-attachments/assets/ef24317f-0892-47f3-88ea-34e604f29fc2
 ### Jeronimo Mejía Escobar
 https://github.com/user-attachments/assets/ae3f0cc3-e243-4746-bc2c-2e3cd33c9726
-
-
-
 ### Alejandro Velásquez Rave
