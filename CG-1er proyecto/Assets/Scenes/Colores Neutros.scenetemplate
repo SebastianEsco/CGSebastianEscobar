@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13966, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: Colores Neutros
+  m_EditorClassIdentifier: 
+  templateScene: {fileID: 102900000, guid: 99e0fcd56a9079e4691923e042da8933, type: 3}
+  templateName: 
+  description: 
+  preview: {fileID: 10309, guid: 0000000000000000f000000000000000, type: 0}
+  dependencies:
+  - dependency: {fileID: 2100000, guid: ade229e3a318f554fb249743485959f8, type: 2}
+    instantiationMode: 1
+  - dependency: {fileID: 2100000, guid: 2aa58449ebd672a4c8793d13253a8cd5, type: 2}
+    instantiationMode: 1
+  - dependency: {fileID: 2800000, guid: 18a6fa7a8e1ac164b99dd7dacc804ead, type: 3}
+    instantiationMode: 1
+  - dependency: {fileID: 2100000, guid: 97ae310d09f592640bc0077dc375e5b3, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: f20112bdeec2e8d4d9f80e8390e37263, type: 3}
+    instantiationMode: 1
+  - dependency: {fileID: 2100000, guid: e823cd5b5d27c0f4b8256e7c12ee3e6d, type: 2}
+    instantiationMode: 1
+  - dependency: {fileID: 2100000, guid: 4823a0e5b14c3c841840c2b2342fbfa5, type: 2}
+    instantiationMode: 1
+  - dependency: {fileID: 2800000, guid: 188dfe7e559f13248ba2c41eb5a59328, type: 3}
+    instantiationMode: 1
+  - dependency: {fileID: 2100000, guid: c54a68eb49b12d142af01e780ed62a19, type: 2}
+    instantiationMode: 1
+  - dependency: {fileID: 2100000, guid: 780042a980476df4b8c6c52ff1bcdf74, type: 2}
+    instantiationMode: 1
+  - dependency: {fileID: 11400000, guid: 20994692b3005d147bc6c17ca70c86ec, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+    instantiationMode: 1
+  templatePipeline: {fileID: 0}
+  badge: {fileID: 0}
+  addToDefaults: 0
