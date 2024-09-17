@@ -25,14 +25,17 @@ Material:
     type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
-  m_ValidKeywords: []
+  m_ValidKeywords:
+  - _SURFACE_TYPE_TRANSPARENT
   m_InvalidKeywords: []
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 1
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
-  stringTagMap: {}
-  disabledShaderPasses: []
+  stringTagMap:
+    RenderType: Transparent
+  disabledShaderPasses:
+  - DepthOnly
   m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
@@ -59,15 +62,29 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - _AlphaClip: 0
+    - _AlphaToMask: 0
+    - _AnimationSpeed: 3
+    - _Blend: 0
+    - _CastShadows: 1
+    - _Construction_Face: 0
+    - _Cull: 2
+    - _Displacement_Amount: 5
+    - _DstBlend: 10
     - _Index_Of_Refraction: 36.36
     - _Intersection_Smotothness: 1
     - _Intersection_Thickness: 0.03
-    - _NormalStrenght: 0.83
+    - _NormalStrenght: 0.16
     - _Normal_Tiling: 0.11
     - _QueueControl: 0
     - _QueueOffset: 0
     - _Refraction_Instensity: 12.65
+    - _SrcBlend: 5
+    - _Surface: 1
+    - _ZTest: 4
+    - _ZWrite: 0
+    - _ZWriteControl: 0
     m_Colors:
-    - _Color: {r: 0.5386131, g: 0.86039764, b: 0, a: 1}
+    - _Color: {r: 2.1146717, g: 0, b: 0.025881423, a: 1}
     - _Normal_Velocity: {r: 1, g: 1, b: 1, a: 0}
   m_BuildTextureStacks: []

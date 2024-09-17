@@ -45733,7 +45733,7 @@ ParticleSystem:
     angle: 8.56
     length: 1
     boxThickness: {x: 0, y: 0, z: 0}
-    radiusThickness: 0
+    radiusThickness: 0.67
     donutRadius: 0.2
     m_Position: {x: 0, y: 0, z: 0}
     m_Rotation: {x: -90, y: 0, z: 0}
@@ -45816,7 +45816,7 @@ ParticleSystem:
     sphericalDirectionAmount: 0
     randomPositionAmount: 0
     radius:
-      value: 1.62
+      value: 1.25
       mode: 0
       spread: 0
       speed:
@@ -45874,12 +45874,12 @@ ParticleSystem:
           m_RotationOrder: 4
     arc:
       value: 360
-      mode: 0
+      mode: 1
       spread: 0
       speed:
         serializedVersion: 2
         minMaxState: 0
-        scalar: 1
+        scalar: 1.2
         minScalar: 1
         maxCurve:
           serializedVersion: 2
