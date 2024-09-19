@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-6248801868494831673
+--- !u!114 &-6534753716427532812
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
@@ -20,32 +20,29 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: SphereMaterial
-  m_Shader: {fileID: -6465566751694194690, guid: 1e699711fe580c843b6df44f85d662c1,
+  m_Name: Hola
+  m_Shader: {fileID: -6465566751694194690, guid: 2a1f5648006a5a940b55017fd4f48337,
     type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
-  m_ValidKeywords:
-  - _SURFACE_TYPE_TRANSPARENT
+  m_ValidKeywords: []
   m_InvalidKeywords: []
   m_LightmapFlags: 4
-  m_EnableInstancingVariants: 1
+  m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
-  stringTagMap:
-    RenderType: Transparent
-  disabledShaderPasses:
-  - DepthOnly
+  stringTagMap: {}
+  disabledShaderPasses: []
   m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
-    - _Cubemap:
-        m_Texture: {fileID: 8900000, guid: 0fedaff811aaae440943e6537736851b, type: 3}
+    - _BaseMap:
+        m_Texture: {fileID: 2800000, guid: 0c62dfba378e4a84984d47932c56b504, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    - _Normal_map:
-        m_Texture: {fileID: 2800000, guid: 06f167c627856564782b5dbf9e4a9d0c, type: 3}
+    - _Normal:
+        m_Texture: {fileID: 2800000, guid: 3e362eb7d665c914482c9fafea76bdf8, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
@@ -62,29 +59,9 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _AlphaClip: 0
-    - _AlphaToMask: 0
-    - _AnimationSpeed: 0.05
-    - _Blend: 0
-    - _CastShadows: 1
-    - _Construction_Face: 1
-    - _Cull: 2
-    - _Displacement_Amount: 5
-    - _DstBlend: 10
-    - _Index_Of_Refraction: 36.36
-    - _Intersection_Smotothness: 1
-    - _Intersection_Thickness: 0.03
-    - _NormalStrenght: 2.91
-    - _Normal_Tiling: 0.01
+    - _Normal_Strenght: 1
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Refraction_Instensity: 12.65
-    - _SrcBlend: 5
-    - _Surface: 1
-    - _ZTest: 4
-    - _ZWrite: 0
-    - _ZWriteControl: 0
-    m_Colors:
-    - _Color: {r: 2.1146717, g: 0, b: 0.025881423, a: 1}
-    - _Normal_Velocity: {r: 1, g: 1, b: 1, a: 0}
+    - _Specular_Hardness: 43.19
+    m_Colors: []
   m_BuildTextureStacks: []
