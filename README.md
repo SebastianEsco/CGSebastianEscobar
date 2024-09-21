@@ -28,5 +28,5 @@
   ### Alejandro Velásquez Rave
     Noise Dissolve:
   
-   ![image](https://github.com/user-attachments/assets/8faeaf6d-a15e-446d-b520-6b3cfca164cf)
+   ### ![image](https://github.com/user-attachments/assets/8faeaf6d-a15e-446d-b520-6b3cfca164cf)
  
