@@ -13,6 +13,14 @@
   https://github.com/user-attachments/assets/ae3f0cc3-e243-4746-bc2c-2e3cd33c9726
   #### Alejandro Velásquez Rave
   https://github.com/user-attachments/assets/bec82eaa-696b-476b-be49-f37effb55fa0
+  ##
 ## Ejercicio 2 Particulas Grupal
   https://github.com/user-attachments/assets/c8e4aa1b-4c5f-4050-b731-d54525d36e85
+##
+## Ejercicio 3 Actividad # 3: Shaders
+  #### Sebastían Escobar Mejía
 
+  #### Jeronimo Mejía Escobar
+
+  #### Alejandro Velásquez Rave
+    ##aaaa     
