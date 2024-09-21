@@ -20,7 +20,11 @@
 ## Ejercicio 2 Particulas Grupal
   
 
-Uploading AnimationActividad2Recortado-mp4.mp4…
+
+https://github.com/user-attachments/assets/54fa80d5-2756-45d3-aafa-477fb1a4f09a
+
+
+
 
 
 ##
