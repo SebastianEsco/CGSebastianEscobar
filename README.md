@@ -19,14 +19,21 @@
 ## Ejercicio 2 Particulas Grupal
   https://github.com/user-attachments/assets/c8e4aa1b-4c5f-4050-b731-d54525d36e85
 ##
-## Ejercicio 3 Actividad # 3: Shaders
+## Actividad # 3: Shaders
 
   ### Sebastían Escobar Mejía
 
   ### Jeronimo Mejía Escobar
 
   ### Alejandro Velásquez Rave
-   #### Noise Dissolve:
-    
+    Noise Dissolve Shader Editor:
+   ![image](https://github.com/user-attachments/assets/8bff4abd-130e-49be-9d05-8bd8d0e013ee)
    ![image](https://github.com/user-attachments/assets/8faeaf6d-a15e-446d-b520-6b3cfca164cf)
+   
+  #####
+    RadialMask Shader Editor:
+  ![image](https://github.com/user-attachments/assets/62342840-b3b1-41b8-a734-e56b1709200f)
+  ![image](https://github.com/user-attachments/assets/ff3c6092-9a53-40d3-8731-ccd5d4c6c1da)
+
+
  
