@@ -6,6 +6,7 @@
     ![Imagen de WhatsApp 2024-08-15 a las 17 04 51_b53042b7](https://github.com/user-attachments/assets/215ffce9-4964-45cd-9198-005990afd0dd)
   - Alejandro Velásuez Rave  ID: 000466978
     ![Imagen de WhatsApp 2024-08-15 a las 17 38 58_329ab6a2](https://github.com/user-attachments/assets/993eb85e-9867-46ec-bfbe-849142c8d4ad)
+###
 ## Ejercicio Parcial 1
   ### Sebastían Escobar Mejía
   https://github.com/user-attachments/assets/ef24317f-0892-47f3-88ea-34e604f29fc2
@@ -22,15 +23,17 @@
 ## Actividad # 3: Shaders
 
   ### Sebastían Escobar Mejía
-
+  
+  ##
   ### Jeronimo Mejía Escobar
 
+  ##
   ### Alejandro Velásquez Rave
-  #
+  ###
     Noise Dissolve Shader Editor:
    ![image](https://github.com/user-attachments/assets/8bff4abd-130e-49be-9d05-8bd8d0e013ee)
    ![image](https://github.com/user-attachments/assets/8faeaf6d-a15e-446d-b520-6b3cfca164cf)
-  # 
+  ### 
     RadialMask Shader Editor:
   ![image](https://github.com/user-attachments/assets/62342840-b3b1-41b8-a734-e56b1709200f)
   ![image](https://github.com/user-attachments/assets/ff3c6092-9a53-40d3-8731-ccd5d4c6c1da)
