@@ -20,10 +20,12 @@
   https://github.com/user-attachments/assets/c8e4aa1b-4c5f-4050-b731-d54525d36e85
 ##
 ## Ejercicio 3 Actividad # 3: Shaders
-  #### Sebastían Escobar Mejía
 
-  #### Jeronimo Mejía Escobar
+  ### Sebastían Escobar Mejía
 
-    #### Alejandro Velásquez Rave
-    ![image](https://github.com/user-attachments/assets/8faeaf6d-a15e-446d-b520-6b3cfca164cf)
+  ### Jeronimo Mejía Escobar
+
+  ### Alejandro Velásquez Rave
+  
+   ![image](https://github.com/user-attachments/assets/8faeaf6d-a15e-446d-b520-6b3cfca164cf)
  
