@@ -18,7 +18,11 @@
   https://github.com/user-attachments/assets/bec82eaa-696b-476b-be49-f37effb55fa0
   ##
 ## Ejercicio 2 Particulas Grupal
-  https://github.com/user-attachments/assets/c8e4aa1b-4c5f-4050-b731-d54525d36e85
+  
+
+Uploading AnimationActividad2Recortado-mp4.mp4…
+
+
 ##
 ## Actividad # 3: Shaders
 
