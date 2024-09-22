@@ -18,13 +18,7 @@
   https://github.com/user-attachments/assets/bec82eaa-696b-476b-be49-f37effb55fa0
   ##
 ## Ejercicio 2 Particulas Grupal
-  
-
-
-https://github.com/user-attachments/assets/54fa80d5-2756-45d3-aafa-477fb1a4f09a
-
-
-
+https://github.com/user-attachments/assets/322f975d-abc3-47a8-b1b2-618af2ce33ed
 
 
 ##
