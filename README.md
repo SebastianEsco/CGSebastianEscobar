@@ -18,8 +18,8 @@
   https://github.com/user-attachments/assets/bec82eaa-696b-476b-be49-f37effb55fa0
   ##
 ## Ejercicio 2 Particulas Grupal
-https://github.com/user-attachments/assets/322f975d-abc3-47a8-b1b2-618af2ce33ed
 
+https://github.com/user-attachments/assets/d25c9fb7-b04f-4599-ab3b-155d09424846
 
 ##
 ## Actividad # 3: Shaders
