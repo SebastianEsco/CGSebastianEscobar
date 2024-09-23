@@ -30,7 +30,6 @@ https://github.com/user-attachments/assets/d25c9fb7-b04f-4599-ab3b-155d09424846
   ### Jeronimo Mejía Escobar
     Textura de mascara multicanal 
   https://github.com/user-attachments/assets/a39de50a-e537-440a-9dab-7b4c1e2c4e0b
-#
   https://github.com/user-attachments/assets/88f4aca0-68d5-4e88-8884-1e1e7cd4e93b
 
 
