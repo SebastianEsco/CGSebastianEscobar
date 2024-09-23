@@ -29,7 +29,7 @@ https://github.com/user-attachments/assets/d25c9fb7-b04f-4599-ab3b-155d09424846
   ##
   ### Jeronimo Mejía Escobar
     Textura de mascara multicanal 
-  https://github.com/user-attachments/assets/e5c5cf1c-8dcb-4751-9003-e4c1faf5cfbc
+  https://github.com/user-attachments/assets/a39de50a-e537-440a-9dab-7b4c1e2c4e0b
   ![Ejercicio 1 Shader](https://github.com/user-attachments/assets/44274ffa-b632-4806-8414-3cbfcce0abb7)
 
 
