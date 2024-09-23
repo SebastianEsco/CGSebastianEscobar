@@ -28,9 +28,19 @@ https://github.com/user-attachments/assets/d25c9fb7-b04f-4599-ab3b-155d09424846
    ### Tiling texture
    ![Imagen de WhatsApp 2024-09-23 a las 03 48 24_3c48fd8a](https://github.com/user-attachments/assets/d22b3748-2e2d-4a21-8ce1-4cb49d67d0c3)
    
+
+https://github.com/user-attachments/assets/ed184646-03e9-4f93-b0d9-7d0454e9c85f
+
+
 -------------------------
    ## Coordenadas polares
 ![Imagen de WhatsApp 2024-09-23 a las 03 58 17_2b35d952](https://github.com/user-attachments/assets/3d23a2ba-8cd1-409d-a459-77ba72ffb1c8)
+
+
+
+https://github.com/user-attachments/assets/55231c66-ca20-4ec6-9ed2-88c3cbcda226
+
+
 
 
 --------------------------
