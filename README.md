@@ -60,10 +60,18 @@ https://github.com/user-attachments/assets/55231c66-ca20-4ec6-9ed2-88c3cbcda226
     Noise Dissolve Shader Editor:
    ![image](https://github.com/user-attachments/assets/8bff4abd-130e-49be-9d05-8bd8d0e013ee)
    ![image](https://github.com/user-attachments/assets/8faeaf6d-a15e-446d-b520-6b3cfca164cf)
+   
+  https://github.com/user-attachments/assets/c210419b-ea28-461a-87a2-668cab93ab78
+   
   ### 
     RadialMask Shader Editor:
   ![image](https://github.com/user-attachments/assets/62342840-b3b1-41b8-a734-e56b1709200f)
   ![image](https://github.com/user-attachments/assets/ff3c6092-9a53-40d3-8731-ccd5d4c6c1da)
+
+  https://github.com/user-attachments/assets/b059c5fc-5388-4a0c-90b6-48a3f1de6714
+
+
+  
 
 
  
