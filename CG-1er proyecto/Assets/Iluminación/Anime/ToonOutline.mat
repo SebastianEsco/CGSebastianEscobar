@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Material
-  m_Shader: {fileID: -6465566751694194690, guid: fce1d5d736c43ce4e886443e6ffeb099,
+  m_Name: ToonOutline
+  m_Shader: {fileID: -6465566751694194690, guid: 890e894fefb133e4d8fb6bde19853500,
     type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -24,14 +24,6 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
-    - _BaseMap:
-        m_Texture: {fileID: 2800000, guid: 37920e0215167c34a8d8d4042c1138e1, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _ToonRamp:
-        m_Texture: {fileID: 2800000, guid: 9facbcf916856be41a6605e73d3ccf18, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -46,15 +38,13 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - _LineThickness: 0.02
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Smoothness: 1
-    - _Spectular_Hardness: 0.505
-    - _UseFreznelSharpen: 0
     m_Colors:
-    - _OutlineColor: {r: 0, g: 0, b: 0, a: 0}
+    - _Color: {r: 0, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
---- !u!114 &6889360466966927603
+--- !u!114 &4930169046509945375
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
