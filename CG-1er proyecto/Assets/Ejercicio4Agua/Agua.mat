@@ -56,7 +56,9 @@ Material:
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
-    - _Color: {r: 0.23382697, g: 0.40692213, b: 0.4641509, a: 0}
+    - _Amount: {r: 1, g: 1, b: 0, a: 0}
+    - _BaseColor: {r: 0.15619439, g: 0.7052983, b: 0.735849, a: 0}
+    - _Color: {r: 0, g: 0.75862074, b: 1, a: 0}
     - _DIsplacementTiling: {r: 0.001, g: 0.001, b: 0, a: 0}
     - _DipsplacementVelocity: {r: 0.06, g: 0.08, b: 0, a: 0}
   m_BuildTextureStacks: []
