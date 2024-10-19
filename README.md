@@ -77,10 +77,12 @@ https://github.com/user-attachments/assets/55231c66-ca20-4ec6-9ed2-88c3cbcda226
 ## Actividad 4: Shaders de superficie
   ### VIDEO
   https://github.com/user-attachments/assets/7eb740c6-c336-48e2-9ab5-b6c2e0ae6139
+  
   https://github.com/user-attachments/assets/e14c31d7-9184-4049-a530-2cc197559875
 
 ### Fotos
   ![image](https://github.com/user-attachments/assets/ae2558e3-c22a-47c5-904c-4a3903cb4daa)
+  ###
   ![image](https://github.com/user-attachments/assets/50f830ab-76d4-4f83-bf00-b2754660c650)
 ### 
     Displacement:
