@@ -88,6 +88,28 @@ https://github.com/user-attachments/assets/55231c66-ca20-4ec6-9ed2-88c3cbcda226
     Displacement:
   ![image](https://github.com/user-attachments/assets/682bb2a2-919a-480a-9206-f76b349cb201)
 
+###
+    Screen space refractions:
+  ![image](https://github.com/user-attachments/assets/8f1303e1-e0a1-49cc-b3c8-15b306a2ffb0)
+
+###
+    Cubemap reflections:
+ ![image](https://github.com/user-attachments/assets/81bc86bf-94b2-412b-a921-1bc6e433bfd4)
+
+###
+    Neblina por profundidad:
+  ![image](https://github.com/user-attachments/assets/d43b53eb-9a05-4dca-97d5-abb297b13d7a)
+  ![image](https://github.com/user-attachments/assets/2809d6ae-6e13-42fd-a68e-59019f9e8763)
+  ![image](https://github.com/user-attachments/assets/7b7b3780-1e0c-4230-a952-816fd6c67a89)
+
+
+###
+    Espuma de intersección:
+  ![image](https://github.com/user-attachments/assets/48cb091b-f30f-4211-b9e7-d6277606669b)
+
+
+
+
 
 
 
