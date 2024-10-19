@@ -106,6 +106,17 @@ https://github.com/user-attachments/assets/55231c66-ca20-4ec6-9ed2-88c3cbcda226
 ###
     Espuma de intersección:
   ![image](https://github.com/user-attachments/assets/48cb091b-f30f-4211-b9e7-d6277606669b)
+  ![image](https://github.com/user-attachments/assets/fee09240-2499-4f27-ab0b-a6c54d337555)
+
+###
+    Iluminación especular analitica con una luz (Blinn-Phong):
+  ![image](https://github.com/user-attachments/assets/0cceacbe-0db5-4457-98dd-ebbd3c4312d0)
+
+###
+    Espuma de oleaje (en los picos y valles de las olas):
+  ![image](https://github.com/user-attachments/assets/27cc2f5a-a5e8-4b5d-a370-bffb3ee0d27e)
+  ![image](https://github.com/user-attachments/assets/f12359c8-9774-4945-bf93-c572297e9c72)
+
 
 
 
