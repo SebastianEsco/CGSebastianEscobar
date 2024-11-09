@@ -7,21 +7,50 @@
   - Alejandro Velásuez Rave  ID: 000466978
     ![Imagen de WhatsApp 2024-08-15 a las 17 38 58_329ab6a2](https://github.com/user-attachments/assets/993eb85e-9867-46ec-bfbe-849142c8d4ad)
 ###
-## Ejercicio Parcial 1
-  ### Sebastían Escobar Mejía
-  https://github.com/user-attachments/assets/ef24317f-0892-47f3-88ea-34e604f29fc2
-  ##
-  ### Jeronimo Mejía Escobar
-  https://github.com/user-attachments/assets/ae3f0cc3-e243-4746-bc2c-2e3cd33c9726
-  ##
-  ### Alejandro Velásquez Rave
-  https://github.com/user-attachments/assets/bec82eaa-696b-476b-be49-f37effb55fa0
-  ##
-## Ejercicio 2 Particulas Grupal
 
-https://github.com/user-attachments/assets/d25c9fb7-b04f-4599-ab3b-155d09424846
+## Actividad 4: Shaders de superficie
+  ### VIDEO
+  https://github.com/user-attachments/assets/7eb740c6-c336-48e2-9ab5-b6c2e0ae6139
+  
+  https://github.com/user-attachments/assets/e14c31d7-9184-4049-a530-2cc197559875
 
-##
+### Fotos
+  ![image](https://github.com/user-attachments/assets/ae2558e3-c22a-47c5-904c-4a3903cb4daa)
+  ###
+  ![image](https://github.com/user-attachments/assets/50f830ab-76d4-4f83-bf00-b2754660c650)
+### 
+    Displacement:
+  ![image](https://github.com/user-attachments/assets/682bb2a2-919a-480a-9206-f76b349cb201)
+
+###
+    Screen space refractions:
+  ![image](https://github.com/user-attachments/assets/8f1303e1-e0a1-49cc-b3c8-15b306a2ffb0)
+
+###
+    Cubemap reflections:
+ ![image](https://github.com/user-attachments/assets/81bc86bf-94b2-412b-a921-1bc6e433bfd4)
+
+###
+    Neblina por profundidad:
+  ![image](https://github.com/user-attachments/assets/d43b53eb-9a05-4dca-97d5-abb297b13d7a)
+  ![image](https://github.com/user-attachments/assets/2809d6ae-6e13-42fd-a68e-59019f9e8763)
+  ![image](https://github.com/user-attachments/assets/7b7b3780-1e0c-4230-a952-816fd6c67a89)
+
+
+###
+    Espuma de intersección:
+  ![image](https://github.com/user-attachments/assets/48cb091b-f30f-4211-b9e7-d6277606669b)
+  ![image](https://github.com/user-attachments/assets/fee09240-2499-4f27-ab0b-a6c54d337555)
+
+###
+    Iluminación especular analitica con una luz (Blinn-Phong):
+  ![image](https://github.com/user-attachments/assets/0cceacbe-0db5-4457-98dd-ebbd3c4312d0)
+
+###
+    Espuma de oleaje (en los picos y valles de las olas):
+  ![image](https://github.com/user-attachments/assets/27cc2f5a-a5e8-4b5d-a370-bffb3ee0d27e)
+  ![image](https://github.com/user-attachments/assets/f12359c8-9774-4945-bf93-c572297e9c72)
+
 ## Actividad # 3: Shaders
 
   ### Sebastían Escobar Mejía
@@ -71,51 +100,26 @@ https://github.com/user-attachments/assets/55231c66-ca20-4ec6-9ed2-88c3cbcda226
   https://github.com/user-attachments/assets/b059c5fc-5388-4a0c-90b6-48a3f1de6714
 ##
 
+## Ejercicio 2 Particulas Grupal
+
+https://github.com/user-attachments/assets/d25c9fb7-b04f-4599-ab3b-155d09424846
+
+##
+
+## Ejercicio Parcial 1
+  ### Sebastían Escobar Mejía
+  https://github.com/user-attachments/assets/ef24317f-0892-47f3-88ea-34e604f29fc2
+  ##
+  ### Jeronimo Mejía Escobar
+  https://github.com/user-attachments/assets/ae3f0cc3-e243-4746-bc2c-2e3cd33c9726
+  ##
+  ### Alejandro Velásquez Rave
+  https://github.com/user-attachments/assets/bec82eaa-696b-476b-be49-f37effb55fa0
+  ##
 
 
 
-## Actividad 4: Shaders de superficie
-  ### VIDEO
-  https://github.com/user-attachments/assets/7eb740c6-c336-48e2-9ab5-b6c2e0ae6139
-  
-  https://github.com/user-attachments/assets/e14c31d7-9184-4049-a530-2cc197559875
 
-### Fotos
-  ![image](https://github.com/user-attachments/assets/ae2558e3-c22a-47c5-904c-4a3903cb4daa)
-  ###
-  ![image](https://github.com/user-attachments/assets/50f830ab-76d4-4f83-bf00-b2754660c650)
-### 
-    Displacement:
-  ![image](https://github.com/user-attachments/assets/682bb2a2-919a-480a-9206-f76b349cb201)
-
-###
-    Screen space refractions:
-  ![image](https://github.com/user-attachments/assets/8f1303e1-e0a1-49cc-b3c8-15b306a2ffb0)
-
-###
-    Cubemap reflections:
- ![image](https://github.com/user-attachments/assets/81bc86bf-94b2-412b-a921-1bc6e433bfd4)
-
-###
-    Neblina por profundidad:
-  ![image](https://github.com/user-attachments/assets/d43b53eb-9a05-4dca-97d5-abb297b13d7a)
-  ![image](https://github.com/user-attachments/assets/2809d6ae-6e13-42fd-a68e-59019f9e8763)
-  ![image](https://github.com/user-attachments/assets/7b7b3780-1e0c-4230-a952-816fd6c67a89)
-
-
-###
-    Espuma de intersección:
-  ![image](https://github.com/user-attachments/assets/48cb091b-f30f-4211-b9e7-d6277606669b)
-  ![image](https://github.com/user-attachments/assets/fee09240-2499-4f27-ab0b-a6c54d337555)
-
-###
-    Iluminación especular analitica con una luz (Blinn-Phong):
-  ![image](https://github.com/user-attachments/assets/0cceacbe-0db5-4457-98dd-ebbd3c4312d0)
-
-###
-    Espuma de oleaje (en los picos y valles de las olas):
-  ![image](https://github.com/user-attachments/assets/27cc2f5a-a5e8-4b5d-a370-bffb3ee0d27e)
-  ![image](https://github.com/user-attachments/assets/f12359c8-9774-4945-bf93-c572297e9c72)
 
 
 
