@@ -7,6 +7,8 @@
   - Alejandro Velásuez Rave  ID: 000466978
     ![Imagen de WhatsApp 2024-08-15 a las 17 38 58_329ab6a2](https://github.com/user-attachments/assets/993eb85e-9867-46ec-bfbe-849142c8d4ad)
 ###
+## Repositorio del FINAL
+https://github.com/SebastianEsco/FinalCGDreamTim.git
 
 ## Actividad 4: Shaders de superficie
   ### VIDEO
